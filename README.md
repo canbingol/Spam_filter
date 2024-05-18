@@ -2,7 +2,7 @@ in this work I created a spam filtering model using a RandomForestClassifier on 
 
 Model Accuracy:  0.9679144385026738
 
-  precision    recall  f1-score   support
+               precision    recall    f1-score   support
 
          ham       0.94      0.99      0.97       185
         spam       0.99      0.94      0.97       189
